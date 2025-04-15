@@ -1,14 +1,13 @@
 
 DEBIAN
 - control
-snap
--snapcraft.yaml
 usr
 -bin
---swiftinstall
+--warp
 -share
 --applications
----swiftinstall.desktop
+---warp.desktop
 --pixmaps
----swiftinstall.png
---swiftinstall
+---warp.png
+--warp exec
+--- start.py
