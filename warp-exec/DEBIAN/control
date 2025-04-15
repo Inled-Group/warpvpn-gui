@@ -1,0 +1,7 @@
+Package: warp-exec
+Version: 1.0.0
+Maintainer: Your Name <your.email@example.com>
+Architecture: all
+Description: Warp Exec Package
+ Priority: optional
+ Section: utils
